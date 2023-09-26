@@ -102,8 +102,7 @@ a {
 }
 .section-one {
 }
-.section-one-title.second {
-}
+
 .section-one-list {
 }
 .section-one-item {
@@ -124,7 +123,7 @@ a {
 }
 .section-two {
 }
-.section-two-title.second {
+.section-two-title-second {
   color: #2e2f42;
   text-align: center;
   font-size: 36px;
@@ -139,7 +138,7 @@ a {
 }
 .section-two-img {
 }
-.section-two-title.third {
+.section-two-title-third {
   color: #2e2f42;
   text-align: center;
   font-size: 20px;
@@ -157,7 +156,7 @@ a {
 }
 .section-three {
 }
-.section-three-title.second {
+.section-three-title-second {
   color: #2e2f42;
   text-align: center;
   font-size: 36px;
@@ -170,7 +169,7 @@ a {
 }
 .section-three-img {
 }
-.section-three-title.third {
+.section-three-title-third {
   color: #2e2f42;
   font-size: 20px;
   font-weight: 500;
